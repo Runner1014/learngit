@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Add one line in branch master.
 Add one line in branch feature.
+add last line in feature.
